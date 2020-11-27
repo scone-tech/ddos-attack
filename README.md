@@ -1,6 +1,6 @@
 # SCONE-TECH DDOS EXPLOIT TOOL
 
-* Author: [click](https://instagram.com/scone-tech/click)
+* Author: [@037](https://instagram.com/scone-tech/@037)
 
 This tool allows you to send forged UDP packets to Memcached servers obtained from Shodan.io
 
