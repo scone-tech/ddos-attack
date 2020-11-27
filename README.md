@@ -1,4 +1,4 @@
-# MEMCRASHED DDOS EXPLOIT TOOL
+# SCONE-TECH DDOS EXPLOIT TOOL
 
 * Author: [@037](https://twitter.com/037)
 
