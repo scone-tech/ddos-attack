@@ -42,10 +42,10 @@ You may deploy this tool to the cloud using a light Alpine Docker image.
 > Note: Make sure to explicitly enter 'y' or 'n' to the interactive prompt
 
 ```bash
-git clone https://github.com/649/Memcrashed-DDoS-Exploit.git
-cd Memcrashed-DDoS-Exploit
+git clone https://github.com/scone-tech/ddos-attack.git
+cd ddos-attack-Exploit
 echo "SHODAN_KEY" > api.txt
-docker build -t memcrashed .
-docker run -it memcrashed
+docker build -t ddos-attack .
+docker run -it ddos-attack
 
 ```
